@@ -1,10 +1,11 @@
-<h1> HERE IS THE QUESTION </h1>
+Here is the Questions
 
-<img src="ques.jpg" >
+![Ques](https://user-images.githubusercontent.com/58175495/205231093-6a1df6e6-dab2-4dda-b063-bd01a762b521.jpg)
 
-<p>
+
+
 1.I applied here is decorator pattern 
 2. I applied Here is Factory pattern
 
 
- </p>
+
