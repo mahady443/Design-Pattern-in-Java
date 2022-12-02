@@ -1,6 +1,6 @@
 <h1> HERE IS THE QUESTION </h1>
 
-<img src="img/ques.jpg" >
+<img src="ques.jpg" >
 
 <p>
 1.I applied here is decorator pattern 
